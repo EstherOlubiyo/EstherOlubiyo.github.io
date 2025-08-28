@@ -21,4 +21,4 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 
 ---
 
-## Contact/links 
+## Contact / links 
