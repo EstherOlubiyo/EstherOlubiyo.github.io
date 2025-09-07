@@ -1,7 +1,4 @@
-# EstherOlubiyo.github.io
-My personal portfolio showing my projects and skills.
-
-# Welcome to My Portfolio  
+# 👋 Welcome to My Portfolio  
 Hi, I'm Esther Olubiyo,an educator and data enthusiast.  
 This portfolio highlights my journey, projects, and skills in teaching and data analysis.  
 
