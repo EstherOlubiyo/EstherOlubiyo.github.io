@@ -12,7 +12,7 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 
 ## Projects & Case Studies  
 - [🏦 Bank Churn Analysis](https://github.com/EstherOlubiyo/Bank-Churn-Analysis)  
-- [🍕 Pizza Sales Analysis](https://github.com/YourUsername/Student-Performance)  
+- [🍕 Pizza Sales Analysis](https://github.com/EstherOlubiyo/Pizza-Sales-Analysis)  
 - [💰 Budget Tracker](https://github.com/YourUsername/Budget-Tracker)
 
 ---
