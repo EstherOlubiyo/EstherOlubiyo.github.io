@@ -11,6 +11,9 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 ---
 
 ## Projects & Case Studies  
+- [🏦 Bank Churn Analysis](https://github.com/YourUsername/Bank-Churn-Analysis)  
+- [📊 Student Performance Dashboard](https://github.com/YourUsername/Student-Performance)  
+- [💰 Budget Tracker](https://github.com/YourUsername/Budget-Tracker)
 
 ---
 
