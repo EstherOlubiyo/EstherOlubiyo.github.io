@@ -23,7 +23,7 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 ---
 
 ## Testimonials  
-*“Esther is a fast learner who quickly applies new skills in real-world data projects.”* – Tutor  
+*@Esther_Olubiyo your dashboard is stunning I don't know why I would have missed something like that 😱 engage on your LinkedIn as well don't snooze.“Esther is a fast learner who quickly applies new skills in real-world data projects.”* – Tutor  
 
 ---
 
