@@ -17,6 +17,11 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 
 ---
 
+## Resume  
+[Download my CV](CV_EstherOlubiyo.pdf)
+
+---
+
 ## Skills & Tools
 - **Data Analysis:** Excel, Power BI, SQL
 - **Data Visualization:** Power BI Dashboards, Charts & Reports  
