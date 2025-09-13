@@ -18,7 +18,7 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 ---
 
 ## Resume  
-[Download my CV](CV_EstherOlubiyo.pdf)
+[Download my CV](https://github.com/EstherOlubiyo/EstherOlubiyo.github.io/blob/main/ESTHER%20YETUNDE%20OLUBIYO%20CV.pdf)
 
 ---
 
