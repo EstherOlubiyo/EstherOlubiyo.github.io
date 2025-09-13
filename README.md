@@ -22,6 +22,11 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 
 ---
 
+## Testimonials  
+*“Esther is a fast learner who quickly applies new skills in real-world data projects.”* – Tutor  
+
+---
+
 ## Skills & Tools
 - **Data Analysis:** Excel, Power BI, SQL
 - **Data Visualization:** Power BI Dashboards, Charts & Reports  
