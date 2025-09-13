@@ -28,7 +28,7 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 ---
 
 ## Skills & Tools
-- **Data Analysis:** Excel, Power BI, SQL
+- **Data Cleaning & Analysis:** Excel, Power BI, SQL
 - **Data Visualization:** Power BI Dashboards, Charts & Reports  
 - **Database Basics:** Relational Data (Orders, Customers, Products)  
 - **Other Tools:** GitHub, Google Workspace, Canva
