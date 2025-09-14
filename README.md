@@ -23,11 +23,12 @@ Beyond teaching, I am the founder of EVA (Esther Virtual Analytics), where I exp
 ---
 
 ## Testimonials   
-**TechyJaunt (Tutor)**
+-TechyJaunt (Tutor)
 *@Esther_Olubiyo your dashboard is stunning I don't know why I would have missed something like that 😱 engage on your LinkedIn as well don't snooze.”*
-**PwC (Virtual Case Experience)**   *"Esther Olubiyo delivered clear, well-structured dashboards that provided actionable insights into customer and operations data."*  
-**HackerRank (SQL Work)**   *"Excelled in solving SQL challenges with optimized queries and strong problem-solving ability."*  
-**School (Maths & Physics Teaching)**  
+-PwC (Virtual Case Experience) *"Esther Olubiyo delivered clear, well-structured dashboards that provided actionable insights into customer and operations data."*  
+-HackerRank (SQL Work)
+*"Excelled in solving SQL challenges with optimized queries and strong problem-solving ability."*  
+-School (Maths & Physics Teaching)
 *"Esther is an outstanding educator who teaches Mathematics and Physics with clarity and creativity. She combines her data analysis background with teaching, helping students connect real-world data with core concepts."*  
 
 ---
